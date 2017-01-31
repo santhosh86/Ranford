@@ -1,0 +1,5 @@
+RoleName###RoleType###Results
+cashier011###E
+cashier013###E
+cashier018###E
+cashier014###E

@@ -1,0 +1,5 @@
+RoleName###RoleType###Results
+cashier011&&&E$$$$$New Role with id 439 Created Sucessfully
+cashier013&&&E$$$$$New Role with id 440 Created Sucessfully
+cashier018&&&E$$$$$New Role with id 441 Created Sucessfully
+cashier014&&&E$$$$$New Role with id 442 Created Sucessfully
